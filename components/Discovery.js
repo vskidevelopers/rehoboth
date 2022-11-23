@@ -14,7 +14,7 @@ export default function Discovery () {
         <div data-aos="fade-up" className="mt-12 mb-12 2xl:mx-auto 2xl:container">
             <div className="lg:px-20 md:px-6 px-4 md:py-12 py-8">
                 <h1 className="lmb-2 text-2xl text-center font-bold text-gray-600 leading-tight md:text-3xl">Discover friends, family, and purpose</h1>
-                <p className="text-gray-600 text-2xl text-center mt-3 font-semi-bold">Check out the different ways to get involved at International Assemblies of God.</p>
+                <p className="text-gray-600 text-2xl text-center mt-3 font-semi-bold">Check out the different ways to get involved at Open Doors Rehoboth Church.</p>
                 <div className="flex justify-center">
                     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 lg:gap-8 lg:mt-16 md:mt-12 mt-8 items-center">
                     
