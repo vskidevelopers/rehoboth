@@ -14,7 +14,7 @@ export default function Blog() {
     <section className="relative py-20 2xl:py-40 bg-blue-100 overflow-hidden">
   <div className="container px-4 mx-auto">
     <div className="mb-14 text-center">
-      <span className="text-lg text-gray-400 font-bold">What&apos;s new at International Assemblies of God</span>
+      <span className="text-lg text-gray-400 font-bold">What&apos;s new at Open Doors Rehoboth Church</span>
       <h2 className="mt-8 text-5xl font-bold font-heading text-gray-700">Latest News Posts</h2>
     </div>
     <div className="flex flex-wrap -m-6">
